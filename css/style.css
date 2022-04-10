@@ -1,0 +1,235 @@
+/* Start Controller  */
+.container-fluid form {
+  margin-top: 10px;
+}
+
+.container-fluid form label {
+  margin-top: 5px;
+}
+
+.container-fluid p {
+  font-size: 15px;
+  margin-right: 16px;
+  font-weight: 400;
+  padding: 10px;
+  text-align: center;
+}
+
+.container-fluid p span {
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+/* End Controller  */
+
+/* Start Home  */
+/* Start Form */
+.container-fluid .form-box {
+  padding: 0 10px;
+}
+
+.padding-link {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.padding-link a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* End Form */
+/* Start Post */
+table tr {
+  display: block;
+}
+
+table .td-display {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+table .td-display img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+table .td-display .space h4 {
+  margin-left: 5px;
+}
+
+td .text {
+  padding: 0 10px;
+}
+
+td .text h3 {
+  color: #00a4e4;
+}
+
+td .text .paragraph {
+  font-weight: 600;
+}
+
+form.form-display {
+  display: none;
+  transition: 2s;
+}
+
+.buttons {
+  margin-right: 10px;
+}
+
+.buttons a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.form-box input {
+  margin-bottom: 5px;
+}
+
+.form-box .buttons {
+  margin-top: 10px;
+}
+
+/* End Post */
+
+/* End Home  */
+
+/* Start Terms */
+.nav-erms {
+  text-align: center;
+  padding: 10px;
+  background: #0c3866d6;
+  font-size: 25px;
+  color: #fff;
+}
+
+.card-body {
+  margin: 10px;
+  background: #d9d9d91c;
+  padding: 10px;
+  border-radius: 10px 0 0 10px;
+  border-right: 3px solid #d20962;
+}
+
+.button-terms {
+  margin-bottom: 20px;
+}
+
+/* End Terms */
+
+/* Start warning */
+.all-warning {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav2 {
+  padding: 10px;
+  background-color: #ccc;
+}
+
+.navbar-warning {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-warning h3 {
+  font-size: 17px;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+.navbar-warning span {
+  font-size: 12px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background: #ccc;
+  padding: 8px;
+}
+
+.warning-body .body span {
+  margin-left: 10px;
+  font-size: 10px;
+  font-weight: 500;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #000;
+}
+
+.warning-body .my-nav {
+  margin-right: 10px;
+}
+
+.warning-body .body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.warning-body .body p {
+  font-size: 10px;
+  margin-right: 0;
+  font-weight: 400;
+  padding: 10px;
+  text-align: right;
+}
+.all-warning .buttons {
+  margin: 10px;
+}
+/* End warning */
+
+/* ٍStart Posts */
+.all-post {
+  padding: 10px;
+  background: #eee;
+  border-radius: 10px;
+  margin: 10px;
+}
+.all-post .body-post {
+  display: flex;
+}
+.all-post .body-post h4 {
+  font-size: 15px;
+  font-weight: 600;
+  margin-right: 15px;
+}
+.all-post .post-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.all-post .post-1 img {
+  max-width: 45px;
+  max-height: 45px;
+  border-radius: 50%;
+}
+.all-post .post-1 span {
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 15px;
+  background: #8db9ca;
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+.all-post .post-2 hr {
+  margin-top: 7px;
+  border: 0.5px solid #4d4f53;
+}
+.all-post .post-2 .post-paragraph {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0 0px;
+  margin-top: -10px;
+  text-align: start;
+}
+.all-post .btns {
+  text-align: end;
+}
+/* ٍEnd Posts */
